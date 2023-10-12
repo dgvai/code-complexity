@@ -1,6 +1,6 @@
 {
   "name": "code-complexity-nestjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Forked from simonrenoult/code-complexity to support NestJS decorators",
   "author": {
     "name": "Jalal Uddin",
