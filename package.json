@@ -1,6 +1,6 @@
 {
   "name": "code-complexity-nestjs",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Measure the churn/complexity score. Higher values mean hotspots where refactorings should happen.",
   "author": {
     "name": "Jalal Uddin",
